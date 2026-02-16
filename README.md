@@ -56,7 +56,6 @@ In my doctoral research, I study farmers' climate change resilience behaviors in
 
 <figure>
   <img align="left" src='images/map_compass.pdf' width= '40%'>
-  <figcaption> </figcaption>
 </figure>
 
 *Abstract: Despite cover crops been widely promoted for their on and off-farm benefits, their adoption is both low nationally and diminishing in some areas. Existing research has examined a suite of factors affecting the adoption of cover crops in the United States, yet understanding the role of multiple government programs and climate changes has not been fully investigated over time, especially across a national sample. Furthermore, the factors associated with cover crop disadoption have not yet been explored nationally. To fill these gaps in the literature, we combine multiple publicly available data sources to estimate the role of multiple government programs (i.e., crop insurance, state, conservation and working-lands programs) and weather and climate change conditions on county cover crop adoption and disadoption...* 
