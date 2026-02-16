@@ -51,9 +51,6 @@ In my doctoral research, I study farmers' climate change resilience behaviors in
 <br>
 
 
-
-
-
 <figure>
   <img align="left" src='images/map_ccvar_2017_2022_compass.001.png' width= '40%'>
 </figure>
