@@ -14,7 +14,7 @@
 
 I'm a Ph.D. Candidate in Complex Systems and Data Science at the University of Vermont (UVM), and a Graduate Research Fellow at the Food Systems Research Institute at UVM. I hold a B.A. in Economics from the Pontifical Catholic University of Ecuador and an M.A. in Development Economics from the Facultad Latinoamericana de Ciencias Sociales (FLACSO) in Ecuador.<br>
 
-In my doctoral research, I study farmers' climate change resilience behaviors in the U.S., particularly the influence of government programs and climate risks on farmers' climate adaptation responses, in the form of nature-based practices, such as cover crops and crop rotations, and technology implementation, including irrigation and tile drainage systems. My research combines large-scale, time-series, and high-resolution data and applies Bayesian statistical models.
+I study farmers' climate change resilience behaviors in the U.S., particularly the influence of government programs and climate risks on farmers' climate adaptation responses in the form of nature-based practices, such as cover crops and crop rotations, and technology implementation, including irrigation and tile drainage systems. My research combines large-scale, time-series, and high-resolution data and applies Bayesian statistical models.
 
 
 <span style="color🌲;">📧 eespinos@uvm.edu \
