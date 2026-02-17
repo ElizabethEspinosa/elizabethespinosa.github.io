@@ -1,6 +1,8 @@
 
 # Elizabeth Espinosa-Uquillas
-
+<br>
+<br>
+<br>
 
 <figure>
   <img align="left" src='images/headshotEli.jpg' width= '40%'>
