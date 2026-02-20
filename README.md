@@ -15,12 +15,13 @@
 ## About
 
 
-I'm a Ph.D. Candidate in Complex Systems and Data Science at the University of Vermont (UVM), and a Graduate Research Fellow at the Food Systems Research Institute at UVM. I hold a B.A. in Economics from the Pontifical Catholic University of Ecuador and an M.A. in Development Economics from the Facultad Latinoamericana de Ciencias Sociales (FLACSO) in Ecuador.<br>
+I'm a Ph.D. Candidate in Complex Systems and Data Science at the University of Vermont (UVM), and a Graduate Research Fellow at the Food Systems Research Institute at UVM. I hold a B.A. in Economics from the Pontifical Catholic University of Ecuador and an M.A. in Development Economics from the Facultad Latinoamericana de Ciencias Sociales (FLACSO) in Ecuador.
+<br>
 
 I study farmers' climate change resilience behaviors in the U.S., particularly the influence of government programs and climate risks on farmers' climate adaptation responses in the form of nature-based practices, such as cover crops and crop rotations, and technology implementation, including irrigation and tile drainage systems. My research combines large-scale, time-series, and high-resolution data and applies Bayesian statistical models.
 
 
-<span style="color🌲;">📧 eespinos@uvm.edu \
+<span>📧 eespinos@uvm.edu \
 :mortar_board: [google scholar](https://scholar.google.com/citations?hl=en&user=vdXBDXYAAAAJ&view_op=list_works&sortby=pubdate) \
 :heavy_check_mark: [github](https://github.com/ElizabethEspinosa) \
 :bust_in_silhouette: [linkedin](https://www.linkedin.com/in/elizabeth-espinosa-uquillas-787b3385/)
@@ -36,7 +37,7 @@ I study farmers' climate change resilience behaviors in the U.S., particularly t
 <br>
 
 
-# Under Peer-review
+# Under Peer Review
 <br>
 <br>
 
