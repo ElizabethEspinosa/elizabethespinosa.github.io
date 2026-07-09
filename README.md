@@ -37,7 +37,7 @@ I study farmers' climate change resilience behaviors in the U.S., particularly t
 <br>
 
 
-# Under Peer Review
+# Published articles
 <br>
 <br>
 
@@ -46,7 +46,7 @@ I study farmers' climate change resilience behaviors in the U.S., particularly t
   <figcaption> </figcaption>
 </figure>
 
-### [Climate Change Adaptation through the lens of Farm Size](https://osf.io/preprints/socarxiv/h6zsp_v1)
+### [Climate Change Adaptation through the lens of Farm Size](https://iopscience.iop.org/article/10.1088/2976-601X/ae55a6)
 
 *Abstract: The heterogeneity of different farmland sizes has been overlooked in the climate adaptation literature, yet it is crucial for identifying effective policy interventions to achieve national-scale climate resilience. Using U.S. Agricultural Census data from 2012, 2017, and 2022 aggregated by farm size groupings within states, we compare the temporal changes in adoption of three water-related climate adaptation practices (cover crops, tile drainage, and irrigation) across small, medium and large farms, individually. Specifically, we provide estimates of the role of multiple government programs and climate changes in shaping heterogeneous climate adaptation behaviors across farm sizes. Applying multilevel models within a Bayesian framework, we show that temporal changes of government programs and climate conditions correlate with temporal changes in adoption differently across farm sizes...* 
 
@@ -54,7 +54,9 @@ I study farmers' climate change resilience behaviors in the U.S., particularly t
 <br>
 <br>
 
-
+# Accepted for publication
+<br>
+<br>
 <figure>
   <img align="left" src='images/map_ccvar_2017_2022_compass.001.png' width= '40%'>
 </figure>
